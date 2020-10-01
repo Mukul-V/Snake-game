@@ -1,10 +1,10 @@
-#include<iostream>
-#include<vector>
-#include<conio.h>
-#include<time.h>
-#include<synchapi.h>
-#include<algorithm>
-#include <windows.h>
+#include<iostream>	//header file for the Input and output functions
+#include<vector>	//Header file for the Vector data type
+#include<conio.h>	//Headerfile for the Console
+#include<time.h>	//headerfile for the Time
+#include<synchapi.h>	
+#include<algorithm>	//Header file for the Algorithm
+#include <windows.h>	//Header file for the windows Function
 using namespace std;
 namespace consoleforeground //for text colour, colours made using 4 attributes
 {
